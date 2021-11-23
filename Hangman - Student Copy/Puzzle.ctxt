@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Puzzle
+comment1.params=w
+comment1.target=Puzzle(java.lang.String)
+comment2.params=
+comment2.target=boolean\ isUnsolved()
+comment2.text=\r\n\ Whether\ or\ not\ the\ puzzle\ is\ solved\r\n
+comment3.params=g
+comment3.target=boolean\ makeGuess(java.lang.String)
+comment3.text=\r\n\ Whether\ or\ not\ the\ guess\ was\ coorect\r\n
+comment4.params=
+comment4.target=void\ show()
+comment4.text=\r\n\ Makes\ puzzle\ visible\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWord()
+comment5.text=\r\n\ Returns\ to\ puzzle\ word\r\n
+comment6.params=
+comment6.target=java.lang.String\ getGuess()
+numComments=7
